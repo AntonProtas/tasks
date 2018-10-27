@@ -1,7 +1,6 @@
 Codewars:
 
      6. http://www.codewars.com/kata/partition-on
-     8. http://www.codewars.com/kata/remove-first-and-last-character-part-two
      9. http://www.codewars.com/kata/implement-a-filter-function
      11. http://www.codewars.com/kata/cross-product-of-vectors
      12. http://www.codewars.com/kata/sequence-generator-1
