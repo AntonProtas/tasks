@@ -1,11 +1,7 @@
 Codewars:
 
-     6. http://www.codewars.com/kata/partition-on
-     9. http://www.codewars.com/kata/implement-a-filter-function
-     11. http://www.codewars.com/kata/cross-product-of-vectors
      12. http://www.codewars.com/kata/sequence-generator-1
      13. https://www.codewars.com/kata/base-conversion/
-     15. http://www.codewars.com/kata/a-function-within-a-function
      17. http://www.codewars.com/kata/using-closures-to-share-class-state
      19. http://www.codewars.com/kata/function-cache
      20. http://www.codewars.com/kata/function-composition
